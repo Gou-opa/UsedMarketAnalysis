@@ -1,10 +1,13 @@
+# pycharm
+.idea
+
 # python venv
-/bin
-/include
-/lib
-/lib64
-pip-selfcheck.json
-pyvenv.cfg
+venv/bin
+venv/include
+venv/lib
+venv/lib64
+venv/pip-selfcheck.json
+venv/pyvenv.cfg
 
 # setting files
 #*.ini
